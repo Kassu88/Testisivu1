@@ -1,0 +1,167 @@
+
+
+ body{
+	  
+    background-image: url('../images/Brooklyn-Bridge-Sunset-HD-Wallpaper-23407.jpg');
+     background-size: cover;
+    background-attachment: fixed;
+    width:980px;
+    height:400px;
+    background-repeat: no-repea
+}
+
+#main_image {
+    background-image: url('../images/background_img.jpg');
+    width: 780px;
+    height: 300px;
+    border: solid 12px blue;
+    margin-top: 30px;
+    
+    
+  
+}
+
+#navigation{
+    margin-bottom: -12px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+
+#navigation ul{
+  margin:0px;
+  padding:0px;
+  display: inline-block;
+    
+    
+}
+ 
+#navigation ul li{
+ 
+     list-style-type: none;
+    float: left;
+}
+
+#navigation ul li a
+{
+    margin: 0px;
+    padding: 10px 30px;
+    color: coral;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+       
+}
+
+
+#navigation ul li a:hover{
+    text-decoration: none;
+    background-color: green;
+    color: chartreuse;
+    
+}
+.info_background {
+    background-color: azure;
+    width: 50%;
+   
+}
+.info_wrapper {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+    #info1 {
+    float: right;
+    width: 34%;
+    padding-bottom: 40px;
+    padding-right: 2%;
+}
+
+    #info2 {
+    float: right;
+    width: 34%;
+    padding-bottom: 20px;
+    padding-right: 20%;
+}
+    #info3 {
+    float: right;
+    width: 34%;
+    padding-bottom: 20px;
+    padding-right: 2%;
+}
+
+*manhattan*
+
+#leftCol {
+    float: left;
+    width: 660px;
+    background-color: #ffffff;
+    padding-bottom: 30px;
+}
+
+.otsikko {
+    margin-top: 10px;
+}
+
+#rightCol {
+    width: 340px;
+    float: right;
+    text-align: right;
+    line-height: 100%;
+    background-color: orange;
+    padding-top: 20px;
+}
+
+#rightCol li{
+    list-style-type: none;
+}
+
+#submit::-moz-focus-inner {
+       border: 0;  /* Small centering fix for Firefox */
+}
+
+body {margin:0;}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+.force {
+    height: 1px;
+    clear: both;
+}
+
+#clear {
+    clear: both;
+}
+
+#main_wrapper_bottom {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.footer_image {
+    float: left;
+    width: 300px;
+    height: 200px;
+    border: solid 10px white;
+      
+}
+
+.footer_image_center {
+    float: left;
+    width: 300px;
+    height: 200px;
+    border: solid 10px white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
